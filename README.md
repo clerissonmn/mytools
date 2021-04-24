@@ -3,7 +3,9 @@ Este repositório é uma forma de manter meus scripts e dotfiles organizados. Ta
 
 ## Descrição dos arquivos e diretórios
 
-├── conda_envs (pasta com as configuracoes de ambientes padrão usados no miniconda)
+```
+├── conda_envs (Arquivos com ambientes padrão usados no miniconda)
 │   └── baseGeneral_enviroment.yml
 ├── LICENSE
 └── README.md
+```
