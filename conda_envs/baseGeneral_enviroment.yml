@@ -1,0 +1,17 @@
+name: baseGeneral
+channels:
+  - defaults
+dependencies:
+  - pip
+  - python=3.9
+  - pip:
+      - numpy
+      - pandas
+      - matplotlib 
+      - numpy 
+      - scipy 
+      - pandas 
+      - jupyter 
+      - jupyterlab 
+      - seaborn
+      - plotly
