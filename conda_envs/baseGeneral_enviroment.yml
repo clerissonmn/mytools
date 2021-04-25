@@ -3,15 +3,17 @@ channels:
   - defaults
 dependencies:
   - pip
-  - python=3.9
+  - python
+  - nb_conda_kernels
   - pip:
-      - numpy
-      - pandas
-      - matplotlib 
-      - numpy 
-      - scipy 
-      - pandas 
-      - jupyter 
+      - ipykernel
+      - jupyter   
+      - jupyter_contrib_nbextensions
       - jupyterlab 
-      - seaborn
+      - matplotlib 
+      - notebook
+      - numpy
+      - pandas 
       - plotly
+      - scipy 
+      - seaborn
